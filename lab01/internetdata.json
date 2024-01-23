@@ -1,0 +1,1280 @@
+[
+ {
+   "country": "Afghanistan",
+   "incomeperperson": null,
+   "internetuserate": 3.654121623,
+   "urbanrate": 24.04
+ },
+ {
+   "country": "Albania",
+   "incomeperperson": 1914.996551,
+   "internetuserate": 44.98994696,
+   "urbanrate": 46.72
+ },
+ {
+   "country": "Algeria",
+   "incomeperperson": 2231.993335,
+   "internetuserate": 12.50007331,
+   "urbanrate": 65.22
+ },
+ {
+   "country": "Andorra",
+   "incomeperperson": 21943.3399,
+   "internetuserate": 81,
+   "urbanrate": 88.92
+ },
+ {
+   "country": "Angola",
+   "incomeperperson": 1381.004268,
+   "internetuserate": 9.999953883,
+   "urbanrate": 56.7
+ },
+ {
+   "country": "Antigua and Barbuda",
+   "incomeperperson": 11894.46407,
+   "internetuserate": 80.64545455,
+   "urbanrate": 30.46
+ },
+ {
+   "country": "Argentina",
+   "incomeperperson": 10749.41924,
+   "internetuserate": 36.00033495,
+   "urbanrate": 92
+ },
+ {
+   "country": "Armenia",
+   "incomeperperson": 1326.741757,
+   "internetuserate": 44.00102458,
+   "urbanrate": 63.86
+ },
+ {
+   "country": "Aruba",
+   "incomeperperson": null,
+   "internetuserate": 41.80088889,
+   "urbanrate": 46.78
+ },
+ {
+   "country": "Australia",
+   "incomeperperson": 25249.98606,
+   "internetuserate": 75.8956538,
+   "urbanrate": 88.74
+ },
+ {
+   "country": "Austria",
+   "incomeperperson": 26692.98411,
+   "internetuserate": 72.73157554,
+   "urbanrate": 67.16
+ },
+ {
+   "country": "Azerbaijan",
+   "incomeperperson": 2344.896916,
+   "internetuserate": 46.67970157,
+   "urbanrate": 51.92
+ },
+ {
+   "country": "Bahamas",
+   "incomeperperson": 19630.54055,
+   "internetuserate": 42.98458017,
+   "urbanrate": 83.7
+ },
+ {
+   "country": "Bahrain",
+   "incomeperperson": 12505.21254,
+   "internetuserate": 54.99280903,
+   "urbanrate": 88.52
+ },
+ {
+   "country": "Bangladesh",
+   "incomeperperson": 558.0628766,
+   "internetuserate": 3.70000326,
+   "urbanrate": 27.14
+ },
+ {
+   "country": "Barbados",
+   "incomeperperson": 9243.587053,
+   "internetuserate": 70.02859927,
+   "urbanrate": 39.84
+ },
+ {
+   "country": "Belarus",
+   "incomeperperson": 2737.670379,
+   "internetuserate": 32.05214391,
+   "urbanrate": 73.46
+ },
+ {
+   "country": "Belgium",
+   "incomeperperson": 24496.04826,
+   "internetuserate": 73.73393447,
+   "urbanrate": 97.36
+ },
+ {
+   "country": "Belize",
+   "incomeperperson": 3545.652174,
+   "internetuserate": 12.64573333,
+   "urbanrate": 51.7
+ },
+ {
+   "country": "Benin",
+   "incomeperperson": 377.0396995,
+   "internetuserate": 3.129961803,
+   "urbanrate": 41.2
+ },
+ {
+   "country": "Bermuda",
+   "incomeperperson": 62682.14701,
+   "internetuserate": 84.65451409,
+   "urbanrate": 100
+ },
+ {
+   "country": "Bhutan",
+   "incomeperperson": 1324.194906,
+   "internetuserate": 13.59887603,
+   "urbanrate": 34.48
+ },
+ {
+   "country": "Bolivia",
+   "incomeperperson": 1232.794137,
+   "internetuserate": 20.00171014,
+   "urbanrate": 65.58
+ },
+ {
+   "country": "Bosnia and Herzegovina",
+   "incomeperperson": 2183.344867,
+   "internetuserate": 52.00206064,
+   "urbanrate": 47.44
+ },
+ {
+   "country": "Botswana",
+   "incomeperperson": 4189.436587,
+   "internetuserate": 5.999835575,
+   "urbanrate": 59.58
+ },
+ {
+   "country": "Brazil",
+   "incomeperperson": 4699.411262,
+   "internetuserate": 40.650098,
+   "urbanrate": 85.58
+ },
+ {
+   "country": "Brunei",
+   "incomeperperson": 17092.46,
+   "internetuserate": 49.98997494,
+   "urbanrate": 74.82
+ },
+ {
+   "country": "Bulgaria",
+   "incomeperperson": 2549.558474,
+   "internetuserate": 45.98658991,
+   "urbanrate": 71.1
+ },
+ {
+   "country": "Burkina Faso",
+   "incomeperperson": 276.200413,
+   "internetuserate": 1.4000607,
+   "urbanrate": 19.56
+ },
+ {
+   "country": "Burundi",
+   "incomeperperson": 115.3059959,
+   "internetuserate": 2.100212706,
+   "urbanrate": 10.4
+ },
+ {
+   "country": "Cambodia",
+   "incomeperperson": 557.9475126,
+   "internetuserate": 1.259933609,
+   "urbanrate": 21.56
+ },
+ {
+   "country": "Cameroon",
+   "incomeperperson": 713.6393027,
+   "internetuserate": 3.999977346,
+   "urbanrate": 56.76
+ },
+ {
+   "country": "Canada",
+   "incomeperperson": 25575.35262,
+   "internetuserate": 81.33839269,
+   "urbanrate": 80.4
+ },
+ {
+   "country": "Cape Verde",
+   "incomeperperson": 1959.844472,
+   "internetuserate": 29.99993952,
+   "urbanrate": 59.62
+ },
+ {
+   "country": "Cayman Islands",
+   "incomeperperson": null,
+   "internetuserate": 66,
+   "urbanrate": 100
+ },
+ {
+   "country": "Central African Rep.",
+   "incomeperperson": 239.5187494,
+   "internetuserate": 2.300026653,
+   "urbanrate": 38.58
+ },
+ {
+   "country": "Chad",
+   "incomeperperson": 275.8842865,
+   "internetuserate": 1.700031496,
+   "urbanrate": 26.68
+ },
+ {
+   "country": "Chile",
+   "incomeperperson": 6334.105194,
+   "internetuserate": 45,
+   "urbanrate": 88.44
+ },
+ {
+   "country": "China",
+   "incomeperperson": 2425.471293,
+   "internetuserate": 34.37778952,
+   "urbanrate": 43.1
+ },
+ {
+   "country": "Colombia",
+   "incomeperperson": 3233.42378,
+   "internetuserate": 36.49987464,
+   "urbanrate": 74.5
+ },
+ {
+   "country": "Comoros",
+   "incomeperperson": 336.3687495,
+   "internetuserate": 5.098265306,
+   "urbanrate": 28.08
+ },
+ {
+   "country": "Congo, Dem. Rep.",
+   "incomeperperson": 103.7758572,
+   "internetuserate": 0.720008677,
+   "urbanrate": 33.96
+ },
+ {
+   "country": "Congo, Rep.",
+   "incomeperperson": 1253.292015,
+   "internetuserate": 4.999875093,
+   "urbanrate": 61.34
+ },
+ {
+   "country": "Cook Islands",
+   "incomeperperson": null,
+   "internetuserate": null,
+   "urbanrate": null
+ },
+ {
+   "country": "Costa Rica",
+   "incomeperperson": 5188.900935,
+   "internetuserate": 36.49911472,
+   "urbanrate": 63.26
+ },
+ {
+   "country": "Cote d'Ivoire",
+   "incomeperperson": 591.0679443,
+   "internetuserate": 2.599973655,
+   "urbanrate": 48.78
+ },
+ {
+   "country": "Croatia",
+   "incomeperperson": 6338.494668,
+   "internetuserate": 60.11970702,
+   "urbanrate": 57.28
+ },
+ {
+   "country": "Cuba",
+   "incomeperperson": 4495.046262,
+   "internetuserate": 15.89997034,
+   "urbanrate": 75.66
+ },
+ {
+   "country": "Cyprus",
+   "incomeperperson": 15313.85935,
+   "internetuserate": 53.02474483,
+   "urbanrate": 69.9
+ },
+ {
+   "country": "Czech Rep.",
+   "incomeperperson": 7381.312751,
+   "internetuserate": 68.63813347,
+   "urbanrate": 73.5
+ },
+ {
+   "country": "Denmark",
+   "incomeperperson": 30532.27704,
+   "internetuserate": 88.77025387,
+   "urbanrate": 86.68
+ },
+ {
+   "country": "Djibouti",
+   "incomeperperson": 895.3183396,
+   "internetuserate": 6.49792351,
+   "urbanrate": 87.3
+ },
+ {
+   "country": "Dominica",
+   "incomeperperson": 6147.77961,
+   "internetuserate": 47.28043603,
+   "urbanrate": 73.92
+ },
+ {
+   "country": "Dominican Rep.",
+   "incomeperperson": 4049.169629,
+   "internetuserate": 39.53127426,
+   "urbanrate": 69.02
+ },
+ {
+   "country": "Ecuador",
+   "incomeperperson": 1728.020976,
+   "internetuserate": 28.99947674,
+   "urbanrate": 65.58
+ },
+ {
+   "country": "Egypt",
+   "incomeperperson": 1975.551906,
+   "internetuserate": 26.74002538,
+   "urbanrate": 42.72
+ },
+ {
+   "country": "El Salvador",
+   "incomeperperson": 2557.433638,
+   "internetuserate": 15.89998203,
+   "urbanrate": 60.7
+ },
+ {
+   "country": "Equatorial Guinea",
+   "incomeperperson": 8654.536845,
+   "internetuserate": 6.003437143,
+   "urbanrate": 39.38
+ },
+ {
+   "country": "Eritrea",
+   "incomeperperson": 131.796207,
+   "internetuserate": 5.399666997,
+   "urbanrate": 20.72
+ },
+ {
+   "country": "Estonia",
+   "incomeperperson": 6238.537506,
+   "internetuserate": 74.1630403,
+   "urbanrate": 69.46
+ },
+ {
+   "country": "Ethiopia",
+   "incomeperperson": 220.8912479,
+   "internetuserate": 0.74999585,
+   "urbanrate": 17
+ },
+ {
+   "country": "Faeroe Islands",
+   "incomeperperson": null,
+   "internetuserate": 75.2,
+   "urbanrate": 41.42
+ },
+ {
+   "country": "Fiji",
+   "incomeperperson": 2230.676374,
+   "internetuserate": 14.83073588,
+   "urbanrate": 52.36
+ },
+ {
+   "country": "Finland",
+   "incomeperperson": 27110.73159,
+   "internetuserate": 86.89884451,
+   "urbanrate": 63.3
+ },
+ {
+   "country": "France",
+   "incomeperperson": 22878.46657,
+   "internetuserate": 77.49861935,
+   "urbanrate": 77.36
+ },
+ {
+   "country": "French Polynesia",
+   "incomeperperson": null,
+   "internetuserate": 48.95732841,
+   "urbanrate": 51.64
+ },
+ {
+   "country": "Gabon",
+   "incomeperperson": 4180.765821,
+   "internetuserate": 7.232224246,
+   "urbanrate": 85.04
+ },
+ {
+   "country": "Gambia",
+   "incomeperperson": 354.5997263,
+   "internetuserate": 9.196775477,
+   "urbanrate": 56.42
+ },
+ {
+   "country": "Georgia",
+   "incomeperperson": 1258.762596,
+   "internetuserate": 26.29725148,
+   "urbanrate": 52.74
+ },
+ {
+   "country": "Germany",
+   "incomeperperson": 25306.18719,
+   "internetuserate": 82.52689791,
+   "urbanrate": 73.64
+ },
+ {
+   "country": "Ghana",
+   "incomeperperson": 358.9795398,
+   "internetuserate": 9.549930701,
+   "urbanrate": 50.02
+ },
+ {
+   "country": "Gibraltar",
+   "incomeperperson": null,
+   "internetuserate": 65,
+   "urbanrate": null
+ },
+ {
+   "country": "Greece",
+   "incomeperperson": 13577.87989,
+   "internetuserate": 44.57007444,
+   "urbanrate": 61
+ },
+ {
+   "country": "Greenland",
+   "incomeperperson": 20751.89342,
+   "internetuserate": 63.84915272,
+   "urbanrate": 83.52
+ },
+ {
+   "country": "Grenada",
+   "incomeperperson": 5330.401612,
+   "internetuserate": 33.61668288,
+   "urbanrate": 30.84
+ },
+ {
+   "country": "Guadeloupe",
+   "incomeperperson": null,
+   "internetuserate": null,
+   "urbanrate": null
+ },
+ {
+   "country": "Guam",
+   "incomeperperson": null,
+   "internetuserate": null,
+   "urbanrate": 93.16
+ },
+ {
+   "country": "Guatemala",
+   "incomeperperson": 1860.753895,
+   "internetuserate": 10.49994819,
+   "urbanrate": 48.58
+ },
+ {
+   "country": "Guinea",
+   "incomeperperson": 411.5014473,
+   "internetuserate": 0.999958926,
+   "urbanrate": 34.44
+ },
+ {
+   "country": "Guinea-Bissau",
+   "incomeperperson": 161.3171371,
+   "internetuserate": 2.450362244,
+   "urbanrate": 29.84
+ },
+ {
+   "country": "Guyana",
+   "incomeperperson": 1200.652075,
+   "internetuserate": 29.87992146,
+   "urbanrate": 28.38
+ },
+ {
+   "country": "Haiti",
+   "incomeperperson": 371.4241975,
+   "internetuserate": 8.370206884,
+   "urbanrate": 46.84
+ },
+ {
+   "country": "Honduras",
+   "incomeperperson": 1392.411829,
+   "internetuserate": 11.09076463,
+   "urbanrate": 47.88
+ },
+ {
+   "country": "Hong Kong, China",
+   "incomeperperson": 35536.07247,
+   "internetuserate": 71.84912394,
+   "urbanrate": 100
+ },
+ {
+   "country": "Hungary",
+   "incomeperperson": 5634.003948,
+   "internetuserate": 65.16325092,
+   "urbanrate": 67.5
+ },
+ {
+   "country": "Iceland",
+   "incomeperperson": 33945.31442,
+   "internetuserate": 95.63811321,
+   "urbanrate": 92.26
+ },
+ {
+   "country": "India",
+   "incomeperperson": 786.7000981,
+   "internetuserate": 7.499995878,
+   "urbanrate": 29.54
+ },
+ {
+   "country": "Indonesia",
+   "incomeperperson": 1143.831514,
+   "internetuserate": 9.900038672,
+   "urbanrate": 51.46
+ },
+ {
+   "country": "Iran",
+   "incomeperperson": 2161.54651,
+   "internetuserate": 13.00011072,
+   "urbanrate": 68.46
+ },
+ {
+   "country": "Iraq",
+   "incomeperperson": 736.2680538,
+   "internetuserate": 2.471948347,
+   "urbanrate": 66.6
+ },
+ {
+   "country": "Ireland",
+   "incomeperperson": 27595.09135,
+   "internetuserate": 69.77039441,
+   "urbanrate": 61.34
+ },
+ {
+   "country": "Israel",
+   "incomeperperson": 22275.75166,
+   "internetuserate": 65.38778594,
+   "urbanrate": 91.66
+ },
+ {
+   "country": "Italy",
+   "incomeperperson": 18982.26929,
+   "internetuserate": 53.7402166,
+   "urbanrate": 68.08
+ },
+ {
+   "country": "Jamaica",
+   "incomeperperson": 3665.348369,
+   "internetuserate": 26.47722324,
+   "urbanrate": 53.3
+ },
+ {
+   "country": "Japan",
+   "incomeperperson": 39309.47886,
+   "internetuserate": 77.63853515,
+   "urbanrate": 66.48
+ },
+ {
+   "country": "Jordan",
+   "incomeperperson": 2534.00038,
+   "internetuserate": 38.88120159,
+   "urbanrate": 78.42
+ },
+ {
+   "country": "Kazakhstan",
+   "incomeperperson": 2481.718918,
+   "internetuserate": 33.38212816,
+   "urbanrate": 57.94
+ },
+ {
+   "country": "Kenya",
+   "incomeperperson": 468.6960436,
+   "internetuserate": 25.8997967,
+   "urbanrate": 21.6
+ },
+ {
+   "country": "Kiribati",
+   "incomeperperson": 760.262365,
+   "internetuserate": 8.95914,
+   "urbanrate": 43.84
+ },
+ {
+   "country": "Korea, Dem. Rep.",
+   "incomeperperson": null,
+   "internetuserate": null,
+   "urbanrate": 62.68
+ },
+ {
+   "country": "Korea, Rep.",
+   "incomeperperson": 16372.49978,
+   "internetuserate": 82.515928,
+   "urbanrate": 81.46
+ },
+ {
+   "country": "Kuwait",
+   "incomeperperson": null,
+   "internetuserate": 38.26023355,
+   "urbanrate": 98.36
+ },
+ {
+   "country": "Kyrgyzstan",
+   "incomeperperson": 372.728414,
+   "internetuserate": 19.58231645,
+   "urbanrate": 36.28
+ },
+ {
+   "country": "Laos",
+   "incomeperperson": 554.8798401,
+   "internetuserate": 6.999880342,
+   "urbanrate": 30.88
+ },
+ {
+   "country": "Latvia",
+   "incomeperperson": 5011.219456,
+   "internetuserate": 71.51472354,
+   "urbanrate": 68.12
+ },
+ {
+   "country": "Lebanon",
+   "incomeperperson": 6746.612632,
+   "internetuserate": 31.00437828,
+   "urbanrate": 86.96
+ },
+ {
+   "country": "Lesotho",
+   "incomeperperson": 495.7342469,
+   "internetuserate": 3.860565398,
+   "urbanrate": 25.46
+ },
+ {
+   "country": "Liberia",
+   "incomeperperson": 155.0332312,
+   "internetuserate": 7.000213821,
+   "urbanrate": 60.14
+ },
+ {
+   "country": "Libya",
+   "incomeperperson": 7885.468037,
+   "internetuserate": 14.00024673,
+   "urbanrate": 77.54
+ },
+ {
+   "country": "Liechtenstein",
+   "incomeperperson": 81647.10003,
+   "internetuserate": 80,
+   "urbanrate": 14.32
+ },
+ {
+   "country": "Lithuania",
+   "incomeperperson": 5332.238591,
+   "internetuserate": 62.81190001,
+   "urbanrate": 66.96
+ },
+ {
+   "country": "Luxembourg",
+   "incomeperperson": 52301.58718,
+   "internetuserate": 90.07952663,
+   "urbanrate": 82.44
+ },
+ {
+   "country": "Macao, China",
+   "incomeperperson": 33923.31387,
+   "internetuserate": 56.76408235,
+   "urbanrate": 100
+ },
+ {
+   "country": "Macedonia, FYR",
+   "incomeperperson": 2221.185664,
+   "internetuserate": 51.91418432,
+   "urbanrate": 66.9
+ },
+ {
+   "country": "Madagascar",
+   "incomeperperson": 242.6775342,
+   "internetuserate": 1.699985145,
+   "urbanrate": 29.52
+ },
+ {
+   "country": "Malawi",
+   "incomeperperson": 184.1417966,
+   "internetuserate": 2.259975885,
+   "urbanrate": 18.8
+ },
+ {
+   "country": "Malaysia",
+   "incomeperperson": 5184.709328,
+   "internetuserate": 56.3000337,
+   "urbanrate": 70.36
+ },
+ {
+   "country": "Maldives",
+   "incomeperperson": 4038.857818,
+   "internetuserate": 28.28970095,
+   "urbanrate": 37.86
+ },
+ {
+   "country": "Mali",
+   "incomeperperson": 269.8928811,
+   "internetuserate": 2.699966448,
+   "urbanrate": 32.18
+ },
+ {
+   "country": "Malta",
+   "incomeperperson": 11066.78414,
+   "internetuserate": 63.07799279,
+   "urbanrate": 94.26
+ },
+ {
+   "country": "Marshall Islands",
+   "incomeperperson": 2437.282445,
+   "internetuserate": null,
+   "urbanrate": 71.08
+ },
+ {
+   "country": "Martinique",
+   "incomeperperson": null,
+   "internetuserate": null,
+   "urbanrate": null
+ },
+ {
+   "country": "Mauritania",
+   "incomeperperson": 609.1312059,
+   "internetuserate": 2.999803179,
+   "urbanrate": 41
+ },
+ {
+   "country": "Mauritius",
+   "incomeperperson": 5182.143721,
+   "internetuserate": 28.7318835,
+   "urbanrate": 42.48
+ },
+ {
+   "country": "Mexico",
+   "incomeperperson": 6105.280743,
+   "internetuserate": 31.05001287,
+   "urbanrate": 77.2
+ },
+ {
+   "country": "Micronesia, Fed. Sts.",
+   "incomeperperson": 2146.358593,
+   "internetuserate": 20.01153153,
+   "urbanrate": 22.54
+ },
+ {
+   "country": "Moldova",
+   "incomeperperson": 595.8745345,
+   "internetuserate": 40.1222347,
+   "urbanrate": 41.76
+ },
+ {
+   "country": "Monaco",
+   "incomeperperson": 105147.4377,
+   "internetuserate": null,
+   "urbanrate": 100
+ },
+ {
+   "country": "Mongolia",
+   "incomeperperson": 772.9333448,
+   "internetuserate": 12.90000468,
+   "urbanrate": 57.18
+ },
+ {
+   "country": "Montenegro",
+   "incomeperperson": 2222.335052,
+   "internetuserate": 51.95803797,
+   "urbanrate": 60.18
+ },
+ {
+   "country": "Morocco",
+   "incomeperperson": 1844.351028,
+   "internetuserate": 49.00063184,
+   "urbanrate": 56.02
+ },
+ {
+   "country": "Mozambique",
+   "incomeperperson": 389.7636343,
+   "internetuserate": 4.170136385,
+   "urbanrate": 36.84
+ },
+ {
+   "country": "Myanmar",
+   "incomeperperson": null,
+   "internetuserate": null,
+   "urbanrate": 32.58
+ },
+ {
+   "country": "Namibia",
+   "incomeperperson": 2667.24671,
+   "internetuserate": 6.500822821,
+   "urbanrate": 36.84
+ },
+ {
+   "country": "Nauru",
+   "incomeperperson": null,
+   "internetuserate": null,
+   "urbanrate": null
+ },
+ {
+   "country": "Nepal",
+   "incomeperperson": 268.2594495,
+   "internetuserate": 7.930096349,
+   "urbanrate": 17.24
+ },
+ {
+   "country": "Netherlands",
+   "incomeperperson": 26551.84424,
+   "internetuserate": 90.70355509,
+   "urbanrate": 81.82
+ },
+ {
+   "country": "Netherlands Antilles",
+   "incomeperperson": null,
+   "internetuserate": null,
+   "urbanrate": 92.68
+ },
+ {
+   "country": "New Caledonia",
+   "incomeperperson": null,
+   "internetuserate": null,
+   "urbanrate": 64.78
+ },
+ {
+   "country": "New Zealand",
+   "incomeperperson": 14778.16393,
+   "internetuserate": 83.00258425,
+   "urbanrate": 86.56
+ },
+ {
+   "country": "Nicaragua",
+   "incomeperperson": 948.355952,
+   "internetuserate": 9.998554154,
+   "urbanrate": 56.74
+ },
+ {
+   "country": "Niger",
+   "incomeperperson": 180.083376,
+   "internetuserate": 0.829997485,
+   "urbanrate": 16.54
+ },
+ {
+   "country": "Nigeria",
+   "incomeperperson": 544.5994767,
+   "internetuserate": 28.43003266,
+   "urbanrate": 48.36
+ },
+ {
+   "country": "Niue",
+   "incomeperperson": null,
+   "internetuserate": null,
+   "urbanrate": null
+ },
+ {
+   "country": "Norway",
+   "incomeperperson": 39972.35277,
+   "internetuserate": 93.27750793,
+   "urbanrate": 77.48
+ },
+ {
+   "country": "Oman",
+   "incomeperperson": 11191.81101,
+   "internetuserate": 61.98741286,
+   "urbanrate": 71.62
+ },
+ {
+   "country": "Pakistan",
+   "incomeperperson": 668.547943,
+   "internetuserate": 16.78003702,
+   "urbanrate": 36.16
+ },
+ {
+   "country": "Palau",
+   "incomeperperson": 6243.571318,
+   "internetuserate": null,
+   "urbanrate": 80.46
+ },
+ {
+   "country": "Panama",
+   "incomeperperson": 5900.616944,
+   "internetuserate": 42.74781206,
+   "urbanrate": 73.2
+ },
+ {
+   "country": "Papua New Guinea",
+   "incomeperperson": 744.2394132,
+   "internetuserate": 1.280049647,
+   "urbanrate": 12.54
+ },
+ {
+   "country": "Paraguay",
+   "incomeperperson": 1621.177078,
+   "internetuserate": 19.80168119,
+   "urbanrate": 60.3
+ },
+ {
+   "country": "Peru",
+   "incomeperperson": 3180.430612,
+   "internetuserate": 34.30060399,
+   "urbanrate": 71.4
+ },
+ {
+   "country": "Philippines",
+   "incomeperperson": 1383.401869,
+   "internetuserate": 24.99994585,
+   "urbanrate": 64.92
+ },
+ {
+   "country": "Poland",
+   "incomeperperson": 6575.745044,
+   "internetuserate": 62.47123013,
+   "urbanrate": 61.32
+ },
+ {
+   "country": "Portugal",
+   "incomeperperson": 11744.83417,
+   "internetuserate": 51.2804784,
+   "urbanrate": 59.46
+ },
+ {
+   "country": "Puerto Rico",
+   "incomeperperson": 15822.11214,
+   "internetuserate": 42.69233477,
+   "urbanrate": 98.32
+ },
+ {
+   "country": "Qatar",
+   "incomeperperson": 33931.83208,
+   "internetuserate": 81.59039727,
+   "urbanrate": 95.64
+ },
+ {
+   "country": "Reunion",
+   "incomeperperson": null,
+   "internetuserate": null,
+   "urbanrate": null
+ },
+ {
+   "country": "Romania",
+   "incomeperperson": 2636.7878,
+   "internetuserate": 40.02009488,
+   "urbanrate": 54.24
+ },
+ {
+   "country": "Russia",
+   "incomeperperson": 2923.144355,
+   "internetuserate": 43.36649772,
+   "urbanrate": 72.84
+ },
+ {
+   "country": "Rwanda",
+   "incomeperperson": 338.2663912,
+   "internetuserate": 13.00000612,
+   "urbanrate": 18.34
+ },
+ {
+   "country": "Saint Kitts and Nevis",
+   "incomeperperson": 9175.796015,
+   "internetuserate": 76.58753846,
+   "urbanrate": 32.32
+ },
+ {
+   "country": "Saint Lucia",
+   "incomeperperson": 5248.582321,
+   "internetuserate": 40.06137931,
+   "urbanrate": 27.84
+ },
+ {
+   "country": "Saint Vincent and the Grenadines",
+   "incomeperperson": 4885.046701,
+   "internetuserate": null,
+   "urbanrate": 47.04
+ },
+ {
+   "country": "Samoa",
+   "incomeperperson": 1784.071284,
+   "internetuserate": 6.965038043,
+   "urbanrate": 23
+ },
+ {
+   "country": "San Marino",
+   "incomeperperson": 31993.20069,
+   "internetuserate": null,
+   "urbanrate": 94.22
+ },
+ {
+   "country": "Sao Tome and Principe",
+   "incomeperperson": null,
+   "internetuserate": 18.79511364,
+   "urbanrate": 60.56
+ },
+ {
+   "country": "Saudi Arabia",
+   "incomeperperson": 9425.32587,
+   "internetuserate": 41.00012846,
+   "urbanrate": 82.42
+ },
+ {
+   "country": "Senegal",
+   "incomeperperson": 561.7085848,
+   "internetuserate": 15.99964999,
+   "urbanrate": 42.38
+ },
+ {
+   "country": "Serbia",
+   "incomeperperson": 1194.711433,
+   "internetuserate": 43.05506706,
+   "urbanrate": 52.04
+ },
+ {
+   "country": "Serbia and Montenegro",
+   "incomeperperson": null,
+   "internetuserate": null,
+   "urbanrate": null
+ },
+ {
+   "country": "Seychelles",
+   "incomeperperson": 8614.120219,
+   "internetuserate": 40.77285057,
+   "urbanrate": 54.34
+ },
+ {
+   "country": "Sierra Leone",
+   "incomeperperson": 268.3317903,
+   "internetuserate": null,
+   "urbanrate": 37.76
+ },
+ {
+   "country": "Singapore",
+   "incomeperperson": 32535.83251,
+   "internetuserate": 71.13170731,
+   "urbanrate": 100
+ },
+ {
+   "country": "Slovak Republic",
+   "incomeperperson": 8445.526689,
+   "internetuserate": 79.88977734,
+   "urbanrate": 56.56
+ },
+ {
+   "country": "Slovenia",
+   "incomeperperson": 12729.4544,
+   "internetuserate": 69.33997072,
+   "urbanrate": 48.6
+ },
+ {
+   "country": "Solomon Islands",
+   "incomeperperson": 1144.102193,
+   "internetuserate": 5.001375465,
+   "urbanrate": 17.96
+ },
+ {
+   "country": "Somalia",
+   "incomeperperson": null,
+   "internetuserate": null,
+   "urbanrate": 36.52
+ },
+ {
+   "country": "South Africa",
+   "incomeperperson": 3745.649852,
+   "internetuserate": 12.33489326,
+   "urbanrate": 60.74
+ },
+ {
+   "country": "Spain",
+   "incomeperperson": 15461.75837,
+   "internetuserate": 65.80855367,
+   "urbanrate": 77.12
+ },
+ {
+   "country": "Sri Lanka",
+   "incomeperperson": 1295.742686,
+   "internetuserate": 11.99997066,
+   "urbanrate": 15.1
+ },
+ {
+   "country": "Sudan",
+   "incomeperperson": 523.9501515,
+   "internetuserate": null,
+   "urbanrate": 43.44
+ },
+ {
+   "country": "Suriname",
+   "incomeperperson": 2668.020519,
+   "internetuserate": 31.5680976,
+   "urbanrate": 74.92
+ },
+ {
+   "country": "Swaziland",
+   "incomeperperson": 1810.230533,
+   "internetuserate": 9.007735909,
+   "urbanrate": 24.94
+ },
+ {
+   "country": "Sweden",
+   "incomeperperson": 32292.48298,
+   "internetuserate": 90.01619002,
+   "urbanrate": 84.54
+ },
+ {
+   "country": "Switzerland",
+   "incomeperperson": 37662.75125,
+   "internetuserate": 82.16665988,
+   "urbanrate": 73.48
+ },
+ {
+   "country": "Syria",
+   "incomeperperson": 1525.780116,
+   "internetuserate": 20.66315568,
+   "urbanrate": 54.22
+ },
+ {
+   "country": "Taiwan",
+   "incomeperperson": null,
+   "internetuserate": null,
+   "urbanrate": null
+ },
+ {
+   "country": "Tajikistan",
+   "incomeperperson": 279.1804526,
+   "internetuserate": 11.54939051,
+   "urbanrate": 26.46
+ },
+ {
+   "country": "Tanzania",
+   "incomeperperson": 456.3857117,
+   "internetuserate": 11.00005544,
+   "urbanrate": 25.52
+ },
+ {
+   "country": "Thailand",
+   "incomeperperson": 2712.517199,
+   "internetuserate": 21.20007177,
+   "urbanrate": 33.32
+ },
+ {
+   "country": "Timor-Leste",
+   "incomeperperson": 369.5729537,
+   "internetuserate": 0.210066326,
+   "urbanrate": 27.3
+ },
+ {
+   "country": "Togo",
+   "incomeperperson": 285.2244493,
+   "internetuserate": 5.379819715,
+   "urbanrate": 42
+ },
+ {
+   "country": "Tonga",
+   "incomeperperson": 2025.282665,
+   "internetuserate": 12.00669231,
+   "urbanrate": 24.78
+ },
+ {
+   "country": "Trinidad and Tobago",
+   "incomeperperson": 10480.8172,
+   "internetuserate": 48.51681767,
+   "urbanrate": 13.22
+ },
+ {
+   "country": "Tunisia",
+   "incomeperperson": 3164.927693,
+   "internetuserate": 36.56255296,
+   "urbanrate": 66.5
+ },
+ {
+   "country": "Turkey",
+   "incomeperperson": 5348.597192,
+   "internetuserate": 39.82017789,
+   "urbanrate": 68.68
+ },
+ {
+   "country": "Turkmenistan",
+   "incomeperperson": 2062.125152,
+   "internetuserate": 2.199997818,
+   "urbanrate": 48.62
+ },
+ {
+   "country": "Tuvalu",
+   "incomeperperson": 1714.94289,
+   "internetuserate": 25,
+   "urbanrate": null
+ },
+ {
+   "country": "Uganda",
+   "incomeperperson": 377.4211133,
+   "internetuserate": 12.50025543,
+   "urbanrate": 12.98
+ },
+ {
+   "country": "Ukraine",
+   "incomeperperson": 1036.830725,
+   "internetuserate": 44.58535469,
+   "urbanrate": 67.98
+ },
+ {
+   "country": "United Arab Emirates",
+   "incomeperperson": 21087.39412,
+   "internetuserate": 77.99678115,
+   "urbanrate": 77.88
+ },
+ {
+   "country": "United Kingdom",
+   "incomeperperson": 28033.48928,
+   "internetuserate": 84.73170475,
+   "urbanrate": 89.94
+ },
+ {
+   "country": "United States",
+   "incomeperperson": 37491.17952,
+   "internetuserate": 74.247572,
+   "urbanrate": 81.7
+ },
+ {
+   "country": "Uruguay",
+   "incomeperperson": 9106.327234,
+   "internetuserate": 47.86746863,
+   "urbanrate": 92.3
+ },
+ {
+   "country": "Uzbekistan",
+   "incomeperperson": 952.8272608,
+   "internetuserate": 19.44502055,
+   "urbanrate": 36.82
+ },
+ {
+   "country": "Vanuatu",
+   "incomeperperson": 1543.956457,
+   "internetuserate": 7.988366667,
+   "urbanrate": 24.76
+ },
+ {
+   "country": "Venezuela",
+   "incomeperperson": 5528.363114,
+   "internetuserate": 35.85043696,
+   "urbanrate": 93.32
+ },
+ {
+   "country": "Vietnam",
+   "incomeperperson": 722.8075588,
+   "internetuserate": 27.85182156,
+   "urbanrate": 27.84
+ },
+ {
+   "country": "West Bank and Gaza",
+   "incomeperperson": null,
+   "internetuserate": 36.42277179,
+   "urbanrate": 71.9
+ },
+ {
+   "country": "Yemen, Rep.",
+   "incomeperperson": 610.3573673,
+   "internetuserate": 12.34975046,
+   "urbanrate": 30.64
+ },
+ {
+   "country": "Zambia",
+   "incomeperperson": 432.226337,
+   "internetuserate": 10.12498646,
+   "urbanrate": 35.42
+ },
+ {
+   "country": "Zimbabwe",
+   "incomeperperson": 320.7718899,
+   "internetuserate": 11.50041532,
+   "urbanrate": 37.34
+ }
+]
